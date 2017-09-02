@@ -19,6 +19,7 @@
     "morgan": "^1.8.2"
   },
   "devDependencies": {
+    "eslint-config-equimper": "^2.2.1",
     "nodemon": "^1.11.0"
   }
 }
